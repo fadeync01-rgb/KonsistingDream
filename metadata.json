@@ -1,0 +1,6 @@
+{
+  "name": "Konsisting Dream",
+  "description": "Temukan & persiapkan kompetisi yang tepat untuk potensimu. Platform kurasi dan persiapan kompetisi terverifikasi di Indonesia dan internasional dengan AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
